@@ -9,8 +9,8 @@
 <h1>My Resume</h1>
 
 <h2>Personal Information</h2>
-<p><b>Name:</b> Naushika Faridi</p>
-<p><b>Email:</b> naushika@gmail.com</p>
+<p><b>Name:</b> Aman Kumar</p>
+<p><b>Email:</b> aman@gmail.com</p>
 <p><b>Phone:</b> 98765#####</p>
 <p><b>Address:</b> Delhi, India</p>
 
